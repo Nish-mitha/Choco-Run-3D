@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0bfd04fa5d3194047a609e1a97f2cb51
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fullHeart: {fileID: 21300000, guid: adbfbad59d7cf7a44b68f4de8736b3c4, type: 3}
+  - emptyHeart: {fileID: 21300000, guid: dce4b6227a92fd64398a664b19ac8823, type: 3}
+  - playerRender: {instanceID: 0}
+  - thePlayer: {instanceID: 0}
+  - deathEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
